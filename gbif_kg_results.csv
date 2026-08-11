@@ -1,0 +1,1273 @@
+"","dataset","Species","koppen_geiger"
+"1","European","Avicennia marina",NA
+"2","European","Actinidia arguta","Cfb; Csa; Csb; Dfb"
+"3","European","Actinidia polygama","Dfb"
+"4","European","Sambucus racemosa","Cfb; Csb; Dfb"
+"5","European","Alangium platanifolium","Cfb; Dfb"
+"6","European","Liquidambar formosana","Cfb; Csa; Dfb"
+"7","European","Liquidambar orientalis","Cfb; Csa; Csb; Dfb"
+"8","European","Semiliquidambar cathayensis",NA
+"9","European","Bosea yervamora",NA
+"10","European","Choerospondias axillaris","Cfb"
+"11","European","Cotinus coggygria","Cfb; Csa; Csb; Dfb"
+"12","European","Pistacia atlantica","Cfb; Csa; Csb; Dfb"
+"13","European","Pistacia chinensis","Cfb; Csa; Dfb"
+"14","European","Pistacia khinjuk","Csa"
+"15","European","Pistacia lentiscus","Cfb; Csa; Csb"
+"16","European","Pistacia terebinthus","Cfb; Csa; Csb; Dfb"
+"17","European","Pistacia vera","Cfb; Csa; Csb"
+"18","European","Rhus chinensis","Cfb; Dfb"
+"19","European","Rhus coriaria","Cfb; Csa; Csb; Dfb"
+"20","European","Rhus javanica",NA
+"21","European","Rhus pentaphylla","Csa; Csb"
+"22","European","Rhus potaninii","Cfb; Dfb"
+"23","European","Rhus tripartita","Csa"
+"24","European","Toxicodendron orientale",NA
+"25","European","Toxicodendron radicans","Cfb; Csa; Dfb"
+"26","European","Toxicodendron succedaneum",NA
+"27","European","Toxicodendron sylvestre",NA
+"28","European","Toxicodendron trichocarpum",NA
+"29","European","Toxicodendron vernicifluum","Cfb; Csb; Dfb"
+"30","European","Annona senegalensis","Csa"
+"31","European","Bupleurum fruticosum","Cfb; Csa; Csb; Dfb"
+"32","European","Anodendron affine",NA
+"33","European","Calotropis procera","Cfb; Csa"
+"34","European","Carissa spinarum","Csa"
+"35","European","Cionura erecta","Cfb; Csa; Csb; Dfb"
+"36","European","Gymnema sylvestre",NA
+"37","European","Leptadenia arborea",NA
+"38","European","Leptadenia lanceolata",NA
+"39","European","Leptadenia pyrotechnica",NA
+"40","European","Marsdenia tomentosa",NA
+"41","European","Nerium oleander","Cfb; Csa; Csb; Dfb"
+"42","European","Parsonsia alboflavescens","Cfb"
+"43","European","Pergularia tomentosa","Cfb"
+"44","European","Periploca aphylla","Csa"
+"45","European","Periploca laevigata","Csa"
+"46","European","Solenostemma oleifolium",NA
+"47","European","Stephanotis abyssinica",NA
+"48","European","Trachelospermum asiaticum","Cfb; Csa; Dfb"
+"49","European","Trachelospermum gracilipes",NA
+"50","European","Ilex ambigua",NA
+"51","European","Ilex aquifolium","Cfb; Csa; Csb; Dfb"
+"52","European","Ilex buergeri","Cfb"
+"53","European","Ilex canariensis","Cfb; Csa"
+"54","European","Ilex chinensis",NA
+"55","European","Ilex cornuta","Cfb"
+"56","European","Ilex crenata","Cfb; Csb; Dfb"
+"57","European","Ilex dipyrena","Cfb"
+"58","European","Ilex excelsa",NA
+"59","European","Ilex fargesii","Cfb"
+"60","European","Ilex ficoidea",NA
+"61","European","Ilex fragilis",NA
+"62","European","Ilex geniculata",NA
+"63","European","Ilex goshiensis",NA
+"64","European","Ilex integra","Cfb; Csb; Dfb"
+"65","European","Ilex intricata",NA
+"66","European","Ilex latifolia","Cfb"
+"67","European","Ilex leucoclada",NA
+"68","European","Ilex liukiuensis",NA
+"69","European","Ilex macropoda",NA
+"70","European","Ilex maximowicziana",NA
+"71","European","Ilex micrococca",NA
+"72","European","Ilex pedunculosa",NA
+"73","European","Ilex perado","Csa; Csb"
+"74","European","Ilex rotunda","Cfb; Csb"
+"75","European","Ilex rugosa","Dfb"
+"76","European","Ilex serrata","Cfb; Dfb"
+"77","European","Ilex sugerokii",NA
+"78","European","Aralia chinensis","Cfb; Dfb"
+"79","European","Aralia elata","Cfb; Csa; Csb; Dfb"
+"80","European","Aralia ryukyuensis",NA
+"81","European","Chengiopanax sciadophylloides",NA
+"82","European","Dendropanax trifidus",NA
+"83","European","Eleutherococcus spinosus","Cfb"
+"84","European","Fatsia japonica","Cfb; Csa; Csb; Dfb"
+"85","European","Gamblea innovans",NA
+"86","European","Hedera helix","Cfb; Csa; Csb; Dfb"
+"87","European","Hedera rhombea","Cfb; Csa"
+"88","European","Heptapleurum heptaphyllum",NA
+"89","European","Kalopanax septemlobus","Cfb; Dfb"
+"90","European","Aristolochia kaempferi",NA
+"91","European","Artemisia absinthium","Cfb; Csa; Csb; Dfb"
+"92","European","Artemisia arborescens","Cfb; Csa; Csb; Dfb"
+"93","European","Artemisia herba-alba","Cfb; Csa; Csb"
+"94","European","Dittrichia viscosa","Cfb; Csa; Csb; Dfb"
+"95","European","Inula crithmoides",NA
+"96","European","Launaea arborescens","Cfb; Csa; Csb"
+"97","European","Pluchea dioscoridis","Csa"
+"98","European","Psiadia punctulata",NA
+"99","European","Rhanterium adpressum",NA
+"100","European","Santolina chamaecyperissus",NA
+"101","European","Barbeya oleoides",NA
+"102","European","Berberis amurensis","Cfb; Dfb"
+"103","European","Berberis oiwakensis","Cfb; Csa; Dfb"
+"104","European","Berberis vulgaris","Cfb; Csa; Csb; Dfb"
+"105","European","Nandina domestica","Cfb; Csa; Csb; Dfb"
+"106","European","Alnus cremastogyne",NA
+"107","European","Alnus glutinosa","Cfb; Csa; Csb; Dfb"
+"108","European","Alnus hirsuta","Cfb; Csa; Dfb"
+"109","European","Alnus incana","Cfb; Csa; Csb; Dfb"
+"110","European","Alnus japonica","Cfb; Dfb"
+"111","European","Alnus matsumurae","Dfb"
+"112","European","Alnus maximowiczii","Cfb; Dfb"
+"113","European","Alnus sieboldiana","Cfb"
+"114","European","Betula alnoides","Cfb"
+"115","European","Betula corylifolia","Cfb; Dfb"
+"116","European","Betula costata","Cfb; Dfb"
+"117","European","Betula davurica","Cfb; Dfb"
+"118","European","Betula ermanii","Cfb; Dfb"
+"119","European","Betula fruticosa","Cfb; Dfb"
+"120","European","Betula grossa","Cfb; Dfb"
+"121","European","Betula maximowicziana","Cfb; Dfb"
+"122","European","Betula microphylla","Dfb"
+"123","European","Betula pendula","Cfb; Csa; Csb; Dfb"
+"124","European","Betula platyphylla","Cfb; Csa; Dfb"
+"125","European","Betula schmidtii","Cfb; Dfb"
+"126","European","Betula utilis","Cfb; Csa; Dfb"
+"127","European","Carpinus betulus","Cfb; Csa; Csb; Dfb"
+"128","European","Carpinus cordata","Cfb; Dfb"
+"129","European","Carpinus japonica","Cfb; Dfb"
+"130","European","Carpinus laxiflora","Cfb; Dfb"
+"131","European","Carpinus tschonoskii","Cfb; Csa; Dfb"
+"132","European","Carpinus viminea",NA
+"133","European","Corylus avellana","Cfb; Csa; Csb; Dfb"
+"134","European","Corylus ferox","Cfb; Dfb"
+"135","European","Corylus heterophylla","Cfb; Dfb"
+"136","European","Corylus sieboldiana","Cfb; Dfb"
+"137","European","Ostrya carpinifolia","Cfb; Csa; Csb; Dfb"
+"138","European","Ostrya japonica","Cfb; Dfb"
+"139","European","Ostryopsis davidiana","Cfb; Dfb"
+"140","European","Catalpa ovata","Cfb; Csa; Csb; Dfb"
+"141","European","Cordia sinensis",NA
+"142","European","Echium aculeatum","Cfb; Csa"
+"143","European","Ehretia acuminata","Cfb; Csa"
+"144","European","Ehretia microphylla","Cfb; Csa"
+"145","European","Heliotropium arboreum","Cfb"
+"146","European","Trichodesma africanum","Cfb"
+"147","European","Bretschneidera sinensis",NA
+"148","European","Buxus microphylla","Cfb; Csa; Dfb"
+"149","European","Buxus sempervirens","Cfb; Csa; Csb; Dfb"
+"150","European","Buxus sinica","Cfb; Dfb"
+"151","European","Chimonanthus praecox","Cfb; Csa; Csb; Dfb"
+"152","European","Aphananthe aspera","Cfb"
+"153","European","Celtis australis","Cfb; Csa; Csb; Dfb"
+"154","European","Celtis biondii","Dfb"
+"155","European","Celtis bungeana","Cfb; Csa; Dfb"
+"156","European","Celtis integrifolia",NA
+"157","European","Celtis jessoensis","Cfb; Dfb"
+"158","European","Celtis sinensis","Cfb; Csa; Csb; Dfb"
+"159","European","Celtis tetranda",NA
+"160","European","Celtis tournefortii","Cfb; Csa; Csb; Dfb"
+"161","European","Celtis vandervoetiana","Cfb"
+"162","European","Pteroceltis tatarinowii","Cfb"
+"163","European","Trema orientale","Cfb"
+"164","European","Boscia integrifolia",NA
+"165","European","Cadaba farinosa","Cfb"
+"166","European","Cadaba glandulosa",NA
+"167","European","Cadaba rotundifolia",NA
+"168","European","Capparis cartilaginea",NA
+"169","European","Capparis decidua",NA
+"170","European","Capparis spinosa","Cfb; Csa; Csb; Dfb"
+"171","European","Capparis tomentosa",NA
+"172","European","Cleome droserifolia",NA
+"173","European","Maerua crassifolia",NA
+"174","European","Maerua oblongifolia",NA
+"175","European","Leycesteria formosa","Cfb; Csa; Dfb"
+"176","European","Lonicera etrusca","Cfb; Csa; Csb; Dfb"
+"177","European","Lonicera hypoglauca",NA
+"178","European","Lonicera japonica","Cfb; Csa; Csb; Dfb"
+"179","European","Lonicera tatarica","Cfb; Csa; Csb; Dfb"
+"180","European","Zabelia biflora","Dfb"
+"181","European","Gymnocarpos decandrum",NA
+"182","European","Casuarina cunninghamiana","Cfb; Csa; Csb; Dfb"
+"183","European","Bhesa sinica",NA
+"184","European","Celastrus orbiculatus","Cfb; Csa; Dfb"
+"185","European","Euonymus alatus","Cfb; Dfb"
+"186","European","Euonymus carnosus","Cfb"
+"187","European","Euonymus europaeus","Cfb; Csa; Csb; Dfb"
+"188","European","Euonymus hamiltonianus","Cfb; Dfb"
+"189","European","Euonymus lutchuensis",NA
+"190","European","Gymnosporia diversifolia",NA
+"191","European","Gymnosporia senegalensis","Csa; Csb; Dfb"
+"192","European","Microtropis japonica",NA
+"193","European","Tripterygium doianum",NA
+"194","European","Cercidiphyllum japonicum","Cfb; Dfb"
+"195","European","Cercidiphyllum magnificum","Cfb; Csb; Dfb"
+"196","European","Anabasis articulata","Csa"
+"197","European","Arthrocnemum macrostachyum",NA
+"198","European","Arthrocnemum perenne",NA
+"199","European","Atriplex halimus","Cfb; Csa; Csb"
+"200","European","Haloxylon persicum",NA
+"201","European","Haloxylon scoparium","Csa"
+"202","European","Salsola baryosma","Csa"
+"203","European","Suaeda fruticosa","Cfb; Csa; Csb"
+"204","European","Suaeda monoica",NA
+"205","European","Sarcandra glabra","Cfb; Dfb"
+"206","European","Cistus albidus","Cfb; Csa; Csb"
+"207","European","Cistus laurifolius","Cfb; Csa; Csb; Dfb"
+"208","European","Clethra arborea","Cfb; Csa; Csb"
+"209","European","Clethra barbinervis","Cfb; Dfb"
+"210","European","Clethra fargesii","Dfb"
+"211","European","Combretum micranthum",NA
+"212","European","Convolvulus floridus","Csa"
+"213","European","Convolvulus scoparius",NA
+"214","European","Alangium alpinum",NA
+"215","European","Alangium chinense","Cfb"
+"216","European","Alangium longiflorum",NA
+"217","European","Alangium premnifolium",NA
+"218","European","Camptotheca acuminata","Cfb; Dfb"
+"219","European","Cornus capitata","Cfb; Csa; Csb; Dfb"
+"220","European","Cornus controversa","Cfb; Dfb"
+"221","European","Cornus kousa","Cfb; Csa; Csb; Dfb"
+"222","European","Cornus macrophylla","Cfb; Dfb"
+"223","European","Cornus oblonga","Cfb"
+"224","European","Cornus officinalis","Cfb; Csb; Dfb"
+"225","European","Cornus sanguinea","Cfb; Csa; Csb; Dfb"
+"226","European","Cornus walteri","Cfb; Csb; Dfb"
+"227","European","Diplopanax stachyanthus",NA
+"228","European","Daphniphyllum macropodum","Cfb"
+"229","European","Daphniphyllum teysmannii",NA
+"230","European","Diospyros ferrea",NA
+"231","European","Diospyros japonica","Cfb"
+"232","European","Diospyros kaki","Cfb; Csa; Csb; Dfb"
+"233","European","Diospyros lotus","Cfb; Csa; Csb; Dfb"
+"234","European","Diospyros maritima","Dfb"
+"235","European","Diospyros morrisiana",NA
+"236","European","Elaeagnus angustifolia","Cfb; Csa; Csb; Dfb"
+"237","European","Elaeagnus glabra","Cfb"
+"238","European","Elaeagnus macrophylla","Cfb; Csa; Dfb"
+"239","European","Elaeagnus multiflora","Cfb; Csa; Dfb"
+"240","European","Hippophae rhamnoides","Cfb; Csa; Csb; Dfb"
+"241","European","Hippophae salicifolia","Cfb; Dfb"
+"242","European","Elaeocarpus japonicus",NA
+"243","European","Elaeocarpus sylvestris",NA
+"244","European","Sloanea dasycarpa",NA
+"245","European","Empetrum nigrum","Cfb; Dfb"
+"246","European","Agapetes serpens","Cfb"
+"247","European","Andromeda polifolia","Cfb; Dfb"
+"248","European","Arbutus andrachne","Cfb; Csa; Csb; Dfb"
+"249","European","Arctostaphylos uva-ursi","Cfb; Csa; Csb; Dfb"
+"250","European","Calluna vulgaris","Cfb; Csa; Csb; Dfb"
+"251","European","Chamaedaphne calyculata","Cfb; Dfb"
+"252","European","Elliottia bracteata","Dfb"
+"253","European","Elliottia paniculata",NA
+"254","European","Enkianthus cernuus",NA
+"255","European","Enkianthus deflexus","Dfb"
+"256","European","Enkianthus sikokianus",NA
+"257","European","Erica arborea","Cfb; Csa; Csb; Dfb"
+"258","European","Erica cinerea","Cfb; Csa; Csb"
+"259","European","Erica lusitanica","Cfb; Csa; Csb"
+"260","European","Eubotryoides grayana","Dfb"
+"261","European","Ledum palustre",NA
+"262","European","Lyonia ovalifolia",NA
+"263","European","Lyonia villosa",NA
+"264","European","Menziesia ciliicalyx","Dfb"
+"265","European","Pieris formosa","Cfb; Csb"
+"266","European","Pieris japonica","Cfb; Csa; Csb; Dfb"
+"267","European","Rhododendron albrechtii","Dfb"
+"268","European","Rhododendron amanoi",NA
+"269","European","Rhododendron barbatum","Cfb"
+"270","European","Rhododendron brachycarpum","Cfb; Dfb"
+"271","European","Rhododendron campanulatum","Cfb; Dfb"
+"272","European","Rhododendron dalhousieae",NA
+"273","European","Rhododendron hodgsonii","Dfb"
+"274","European","Rhododendron indicum","Cfb; Csa; Csb; Dfb"
+"275","European","Rhododendron keiskei","Dfb"
+"276","European","Rhododendron kesangiae","Dfb"
+"277","European","Rhododendron latoucheae",NA
+"278","European","Rhododendron lepidotum",NA
+"279","European","Rhododendron metternichii","Cfb; Dfb"
+"280","European","Rhododendron quinquefolium","Dfb"
+"281","European","Rhododendron serpyllifolium",NA
+"282","European","Rhododendron setosum",NA
+"283","European","Rhododendron simsii","Cfb; Csb; Dfb"
+"284","European","Rhododendron sinogrande",NA
+"285","European","Rhododendron triflorum",NA
+"286","European","Vaccinium bracteatum","Csb"
+"287","European","Vaccinium japonicum",NA
+"288","European","Vaccinium ovalifolium","Cfb"
+"289","European","Vaccinium smallii",NA
+"290","European","Vaccinium uliginosum","Cfb; Csb; Dfb"
+"291","European","Vaccinium wrightii",NA
+"292","European","Vaccinium yakushimense",NA
+"293","European","Eucommia ulmoides","Cfb; Csb; Dfb"
+"294","European","Macaranga tanarius",NA
+"295","European","Mallotus japonicus","Csa; Csb"
+"296","European","Melanolepis multiglandulosa",NA
+"297","European","Neoshirakia japonica","Cfb"
+"298","European","Ricinus communis","Cfb; Csa; Csb; Dfb"
+"299","European","Sapium japonicum","Cfb"
+"300","European","Triadica cochinchinensis",NA
+"301","European","Vernicia cordata",NA
+"302","European","Vernicia fordii","Cfb; Csb"
+"303","European","Vernicia montana",NA
+"304","European","Euptelea polyandra",NA
+"305","European","Castanea crenata","Cfb; Csa; Csb; Dfb"
+"306","European","Castanea mollissima","Cfb; Dfb"
+"307","European","Castanopsis cuspidata","Cfb"
+"308","European","Castanopsis eyrei",NA
+"309","European","Castanopsis sclerophylla",NA
+"310","European","Castanopsis sieboldii",NA
+"311","European","Fagus crenata","Cfb; Dfb"
+"312","European","Fagus grandifolia","Cfb; Csb; Dfb"
+"313","European","Fagus orientalis","Cfb; Csa; Csb; Dfb"
+"314","European","Lithocarpus edulis","Cfb; Csa; Dfb"
+"315","European","Lithocarpus megalophyllus",NA
+"316","European","Lithocarpus uraianus",NA
+"317","European","Quercus acutissima","Cfb; Dfb"
+"318","European","Quercus phillyreoides","Cfb"
+"319","European","Quercus suber","Cfb; Csa; Csb; Dfb"
+"320","European","Quercus variabilis","Cfb; Dfb"
+"321","European","Aucuba japonica","Cfb; Csa; Csb; Dfb"
+"322","European","Ixanthus viscosus","Cfb; Dfb"
+"323","European","Globularia salicina","Cfb; Csa; Csb"
+"324","European","Scaevola taccada","Cfb; Dfb"
+"325","European","Ribes japonicum",NA
+"326","European","Ribes nigrum","Cfb; Csa; Dfb"
+"327","European","Chunia bucklandioides",NA
+"328","European","Corylopsis gotoana","Cfb"
+"329","European","Corylopsis multiflora",NA
+"330","European","Corylopsis spicata","Cfb; Dfb"
+"331","European","Disanthus cercidifolius","Dfb"
+"332","European","Distylium myricoides","Cfb"
+"333","European","Distylium racemosum","Cfb"
+"334","European","Eustigma oblongifolium",NA
+"335","European","Exbucklandia tonkinensis",NA
+"336","European","Fortunearia sinensis","Cfb"
+"337","European","Hamamelis japonica","Cfb; Dfb"
+"338","European","Hamamelis mollis","Cfb; Dfb"
+"339","European","Loropetalum chinense","Cfb; Csa; Csb"
+"340","European","Parrotia persica","Cfb; Csa; Dfb"
+"341","European","Parrotiopsis jacquemontiana","Cfb; Dfb"
+"342","European","Sinowilsonia henryi","Cfb"
+"343","European","Sycopsis sinensis","Cfb"
+"344","European","Tetrathyrium cordatum",NA
+"345","European","Helwingia japonica","Dfb"
+"346","European","Deutzia crenata","Cfb; Csa; Dfb"
+"347","European","Deutzia glabrata","Cfb; Dfb"
+"348","European","Deutzia scabra","Cfb; Csa; Csb; Dfb"
+"349","European","Hydrangea petiolaris","Cfb; Csa; Dfb"
+"350","European","Hydrangea serrata","Cfb; Csb; Dfb"
+"351","European","Philadelphus incanus","Cfb; Csa; Dfb"
+"352","European","Hypericum patulum","Cfb; Csa"
+"353","European","Illicium anisatum","Cfb; Csb"
+"354","European","Itea oldhamii",NA
+"355","European","Carya cathayensis",NA
+"356","European","Cyclocarya paliurus",NA
+"357","European","Engelhardia roxburghiana",NA
+"358","European","Engelhardia spicata",NA
+"359","European","Juglans cinerea","Cfb; Csb; Dfb"
+"360","European","Juglans mandshurica","Cfb; Csb; Dfb"
+"361","European","Juglans regia","Cfb; Csa; Csb; Dfb"
+"362","European","Platycarya strobilacea","Cfb; Dfb"
+"363","European","Pterocarya hupehensis","Cfb"
+"364","European","Pterocarya macroptera","Cfb; Csa; Dfb"
+"365","European","Pterocarya rhoifolia","Cfb; Dfb"
+"366","European","Pterocarya stenoptera","Cfb; Dfb"
+"367","European","Rhoiptelea chiliantha",NA
+"368","European","Vitex trifolia","Cfb; Csa"
+"369","European","Callicarpa japonica","Cfb; Csa; Dfb"
+"370","European","Callicarpa kochiana",NA
+"371","European","Callicarpa mollis","Cfb; Dfb"
+"372","European","Callicarpa oshimensis",NA
+"373","European","Clerodendrum trichotomum","Cfb; Csa; Csb; Dfb"
+"374","European","Lavandula angustifolia","Cfb; Csa; Csb; Dfb"
+"375","European","Phlomis fruticosa","Cfb; Csa; Csb; Dfb"
+"376","European","Rosmarinus officinalis","Cfb; Csa; Csb; Dfb"
+"377","European","Salvia fruticosa","Cfb; Csa; Csb; Dfb"
+"378","European","Vitex agnus-castus","Cfb; Csa; Csb; Dfb"
+"379","European","Akebia quinata","Cfb; Csa; Csb; Dfb"
+"380","European","Akebia trifoliata","Cfb; Dfb"
+"381","European","Decaisnea fargesii","Cfb; Dfb"
+"382","European","Sinofranchetia chinensis","Cfb"
+"383","European","Stauntonia hexaphylla","Dfb"
+"384","European","Stauntonia latifolia",NA
+"385","European","Actinodaphne acuminata",NA
+"386","European","Actinodaphne cupularis",NA
+"387","European","Apollonias barbujana","Cfb; Csa; Csb; Dfb"
+"388","European","Beilschmiedia erythrophloia",NA
+"389","European","Cinnamomum camphora","Cfb; Csa; Csb; Dfb"
+"390","European","Cinnamomum cassia",NA
+"391","European","Cinnamomum daphnoides","Cfb; Csa"
+"392","European","Cinnamomum doederleinii",NA
+"393","European","Cinnamomum japonicum",NA
+"394","European","Cinnamomum okinawense",NA
+"395","European","Cinnamomum sieboldii","Cfb"
+"396","European","Cryptocarya chinensis",NA
+"397","European","Laurus nobilis","Cfb; Csa; Csb; Dfb"
+"398","European","Lindera citriodora",NA
+"399","European","Lindera erythrocarpa",NA
+"400","European","Lindera glauca",NA
+"401","European","Lindera praecox","Cfb"
+"402","European","Lindera sericea",NA
+"403","European","Lindera triloba",NA
+"404","European","Lindera umbellata","Csa; Dfb"
+"405","European","Litsea coreana",NA
+"406","European","Litsea cubeba",NA
+"407","European","Litsea elongata","Cfb"
+"408","European","Litsea fluminensis",NA
+"409","European","Litsea japonica","Cfb"
+"410","European","Machilus ichangensis",NA
+"411","European","Machilus japonica",NA
+"412","European","Machilus kurzii",NA
+"413","European","Machilus nanmu",NA
+"414","European","Machilus thunbergii","Cfb"
+"415","European","Machilus zuihoensis","Cfb"
+"416","European","Neolitsea aciculata",NA
+"417","European","Neolitsea aurata",NA
+"418","European","Neolitsea konishii",NA
+"419","European","Neolitsea levinei",NA
+"420","European","Neolitsea sericea","Cfb"
+"421","European","Sassafras randaiense",NA
+"422","European","Sassafras tzumu","Cfb; Dfb"
+"423","European","Biancaea decapetala","Cfb; Csa"
+"424","European","Ceratonia siliqua","Cfb; Csa; Csb"
+"425","European","Gleditsia fera",NA
+"426","European","Gleditsia japonica","Cfb; Dfb"
+"427","European","Gleditsia sinensis","Cfb; Csa; Dfb"
+"428","European","Gymnocladus chinensis",NA
+"429","European","Senna alexandrina","Cfb; Csa; Dfb"
+"430","European","Cercis chinensis","Cfb; Csa; Dfb"
+"431","European","Cercis siliquastrum","Cfb; Csa; Csb; Dfb"
+"432","European","Acacia tortilis","Csa"
+"433","European","Albizia julibrissin","Cfb; Csa; Csb; Dfb"
+"434","European","Faidherbia albida","Csa"
+"435","European","Prosopis farcta","Csa; Dfb"
+"436","European","Senegalia mellifera","Dfb"
+"437","European","Vachellia gerrardii",NA
+"438","European","Vachellia nilotica","Cfb; Csa; Csb"
+"439","European","Vachellia oerfota",NA
+"440","European","Vachellia seyal",NA
+"441","European","Vachellia tortilis","Csa"
+"442","European","Ammodendron conollyi",NA
+"443","European","Ammodendron karelinii",NA
+"444","European","Amorpha fruticosa","Cfb; Csa; Dfb"
+"445","European","Anagyris foetida","Cfb; Csa; Csb; Dfb"
+"446","European","Astragalus armatus","Csa; Csb"
+"447","European","Calycotome villosa","Csa; Csb"
+"448","European","Caragana frutex","Cfb; Csa; Dfb"
+"449","European","Chamaecytisus hirsutus","Cfb; Csa; Csb; Dfb"
+"450","European","Cladrastis delavayi","Cfb"
+"451","European","Cladrastis shikokiana",NA
+"452","European","Cladrastis wilsonii",NA
+"453","European","Colutea cilicica","Cfb; Csa; Csb; Dfb"
+"454","European","Cytisus scoparius","Cfb; Csa; Csb; Dfb"
+"455","European","Dalbergia hupeana","Cfb"
+"456","European","Derris elliptica",NA
+"457","European","Erythrina arborescens",NA
+"458","European","Genista fasselata","Csa"
+"459","European","Genista saharae","Csa; Csb"
+"460","European","Gonocytisus pterocladus","Csa"
+"461","European","Laburnum anagyroides","Cfb; Csa; Csb; Dfb"
+"462","European","Lespedeza bicolor","Cfb; Csa; Dfb"
+"463","European","Lespedeza buergeri","Csa"
+"464","European","Lespedeza cyrtobotrya",NA
+"465","European","Maackia amurensis","Cfb; Dfb"
+"466","European","Ormosia formosana",NA
+"467","European","Platyosprion platycarpum",NA
+"468","European","Pueraria montana","Cfb; Csa; Csb; Dfb"
+"469","European","Retama raetam","Csa; Csb; Dfb"
+"470","European","Spartium junceum","Cfb; Csa; Csb; Dfb"
+"471","European","Styphnolobium japonicum","Cfb; Csa; Csb; Dfb"
+"472","European","Ulex europaeus","Cfb; Csa; Csb"
+"473","European","Wisteria floribunda","Cfb; Csa; Csb; Dfb"
+"474","European","Plicosepalus acaciae","Cfb; Csa"
+"475","European","Lagerstroemia indica","Cfb; Csa; Csb; Dfb"
+"476","European","Lagerstroemia subcostata","Cfb; Csa"
+"477","European","Lawsonia inermis","Cfb; Csa; Dfb"
+"478","European","Punica granatum","Cfb; Csa; Csb; Dfb"
+"479","European","Maesa montana",NA
+"480","European","Liriodendron chinense","Cfb; Dfb"
+"481","European","Magnolia compressa",NA
+"482","European","Magnolia delavayi","Cfb"
+"483","European","Magnolia denudata","Cfb; Csa; Csb; Dfb"
+"484","European","Magnolia figo","Cfb; Csb; Dfb"
+"485","European","Magnolia floribunda",NA
+"486","European","Magnolia hypolampra",NA
+"487","European","Magnolia kobus","Cfb; Csb; Dfb"
+"488","European","Magnolia kwangsiensis",NA
+"489","European","Magnolia liliifera","Cfb; Dfb"
+"490","European","Magnolia obovata","Cfb; Csa; Dfb"
+"491","European","Magnolia officinalis","Cfb"
+"492","European","Magnolia salicifolia","Cfb; Csb; Dfb"
+"493","European","Magnolia sieboldii","Cfb; Dfb"
+"494","European","Pterospermum heterophyllum",NA
+"495","European","Grewia flavescens",NA
+"496","European","Grewia villosa",NA
+"497","European","Reevesia formosana",NA
+"498","European","Reevesia pubescens","Cfb"
+"499","European","Reevesia thyrsoidea",NA
+"500","European","Abutilon pannosum",NA
+"501","European","Hibiscus hamabo",NA
+"502","European","Hibiscus makinoi",NA
+"503","European","Hibiscus micranthus",NA
+"504","European","Hibiscus mutabilis","Cfb; Csa; Csb; Dfb"
+"505","European","Hibiscus rosa-sinensis","Cfb; Csa; Csb; Dfb"
+"506","European","Hibiscus syriacus","Cfb; Csa; Csb; Dfb"
+"507","European","Firmiana simplex","Cfb; Csa; Csb; Dfb"
+"508","European","Craigia yunnanensis",NA
+"509","European","Tilia amurensis","Cfb; Dfb"
+"510","European","Tilia cordata","Cfb; Csa; Dfb"
+"511","European","Tilia japonica","Cfb; Dfb"
+"512","European","Tilia kiusiana","Cfb; Dfb"
+"513","European","Tilia mandshurica","Cfb; Csa; Dfb"
+"514","European","Bredia hirsuta",NA
+"515","European","Tashiroea okinawensis",NA
+"516","European","Tashiroea yaeyamensis",NA
+"517","European","Melia azedarach","Cfb; Csa; Csb"
+"518","European","Toona sinensis","Cfb; Csa; Dfb"
+"519","European","Cocculus laurifolius","Cfb; Csa; Csb"
+"520","European","Cocculus orbiculatus",NA
+"521","European","Cocculus pendulus","Csa"
+"522","European","Sinomenium acutum",NA
+"523","European","Stephania japonica",NA
+"524","European","Broussonetia kaempferi",NA
+"525","European","Broussonetia papyrifera","Cfb; Csa; Csb; Dfb"
+"526","European","Broussonetia x_kazinoki","Cfb"
+"527","European","Ficus carica","Cfb; Csa; Csb; Dfb"
+"528","European","Ficus erecta","Cfb"
+"529","European","Ficus ingens",NA
+"530","European","Ficus microcarpa","Csa; Csb"
+"531","European","Ficus pseudo-sycomorus",NA
+"532","European","Ficus salicifolia",NA
+"533","European","Ficus sarmentosa",NA
+"534","European","Ficus superba","Csa"
+"535","European","Ficus sur","Cfb; Csa"
+"536","European","Ficus sycomorus","Cfb; Csa"
+"537","European","Ficus thunbergii",NA
+"538","European","Ficus virgata",NA
+"539","European","Maclura cochinchinensis",NA
+"540","European","Maclura tricuspidata","Cfb; Csa; Dfb"
+"541","European","Morus alba","Cfb; Csa; Csb; Dfb"
+"542","European","Morus boninensis",NA
+"543","European","Morus cathayana","Cfb; Dfb"
+"544","European","Morus indica","Cfb; Csa; Dfb"
+"545","European","Moringa peregrina","Csa"
+"546","European","Myoporum bontioides",NA
+"547","European","Morella esculenta","Cfb; Csb; Dfb"
+"548","European","Morella nagi","Cfb"
+"549","European","Morella rubra","Cfb"
+"550","European","Myrica gale","Cfb; Csa; Csb; Dfb"
+"551","European","Myrtus communis","Cfb; Csa; Csb; Dfb"
+"552","European","Myrtus nivellei",NA
+"553","European","Syzygium buxifolium","Csa; Csb"
+"554","European","Nitraria retusa","Csa"
+"555","European","Davidia involucrata","Cfb; Dfb"
+"556","European","Nyssa sinensis","Cfb; Dfb"
+"557","European","Malania oleifera",NA
+"558","European","Abeliophyllum distichum","Cfb; Dfb"
+"559","European","Chionanthus subgrp",NA
+"560","European","Chionanthus retusus","Cfb; Csa; Dfb"
+"561","European","Chrysojasminum fruticans","Cfb; Csa; Csb; Dfb"
+"562","European","Fontanesia phillyraeoides",NA
+"563","European","Fraxinus angustifolia","Cfb; Csa; Csb; Dfb"
+"564","European","Fraxinus apertisquamifera",NA
+"565","European","Fraxinus chinensis","Cfb; Dfb"
+"566","European","Fraxinus excelsior","Cfb; Csa; Csb; Dfb"
+"567","European","Fraxinus floribunda",NA
+"568","European","Fraxinus griffithii","Cfb; Csa"
+"569","European","Fraxinus malacophylla",NA
+"570","European","Fraxinus mandshurica","Cfb; Dfb"
+"571","European","Fraxinus micrantha",NA
+"572","European","Fraxinus ornus","Cfb; Csa; Csb; Dfb"
+"573","European","Fraxinus platypoda","Dfb"
+"574","European","Jasminum humile",NA
+"575","European","Jasminum sambac","Cfb; Csa; Dfb"
+"576","European","Ligustrum confusum",NA
+"577","European","Ligustrum japonicum","Cfb; Csa; Csb; Dfb"
+"578","European","Ligustrum lucidum","Cfb; Csa; Csb; Dfb"
+"579","European","Ligustrum obtusifolium","Cfb; Csa; Dfb"
+"580","European","Ligustrum sinense","Cfb; Csa; Csb; Dfb"
+"581","European","Ligustrum vulgare","Cfb; Csa; Csb; Dfb"
+"582","European","Olea brachiata",NA
+"583","European","Olea europaea","Cfb; Csa; Csb; Dfb"
+"584","European","Olea hainanensis",NA
+"585","European","Olea salicifolia",NA
+"586","European","Olea tsoongii","Cfb"
+"587","European","Osmanthus fragrans","Cfb; Csb; Dfb"
+"588","European","Osmanthus heterophyllus","Cfb; Csa; Csb; Dfb"
+"589","European","Osmanthus suavis",NA
+"590","European","Phillyrea latifolia","Cfb; Csa; Csb; Dfb"
+"591","European","Syringa emodi","Cfb; Dfb"
+"592","European","Syringa pinnatifolia","Cfb"
+"593","European","Syringa reticulata","Cfb; Dfb"
+"594","European","Champereia manillana",NA
+"595","European","Paulownia fortunei","Cfb; Csa"
+"596","European","Paulownia tomentosa","Cfb; Csa; Csb; Dfb"
+"597","European","Adinandra bockiana",NA
+"598","European","Cleyera japonica","Cfb; Csa; Csb"
+"599","European","Eurya cavinervis",NA
+"600","European","Eurya cerasifolia",NA
+"601","European","Eurya japonica","Cfb"
+"602","European","Eurya osimensis",NA
+"603","European","Ternstroemia gymnanthera","Cfb"
+"604","European","Visnea mocanera","Csa"
+"605","European","Antidesma japonicum",NA
+"606","European","Bischofia polycarpa","Cfb"
+"607","European","Bridelia balansae",NA
+"608","European","Flueggea anatolica",NA
+"609","European","Flueggea suffruticosa","Cfb; Csa; Dfb"
+"610","European","Glochidion acuminatum",NA
+"611","European","Glochidion lanceolatum",NA
+"612","European","Glochidion obovatum",NA
+"613","European","Glochidion zeylanicum",NA
+"614","European","Phyllanthus flexuosus","Cfb"
+"615","European","Piper kadsura",NA
+"616","European","Pittosporum tobira","Cfb; Csa; Csb; Dfb"
+"617","European","Platanus x_hispanica","Cfb; Csa; Csb; Dfb"
+"618","European","Calligonum comosum","Csa"
+"619","European","Maesa chisia",NA
+"620","European","Maesa japonica",NA
+"621","European","Maesa macrophylla",NA
+"622","European","Maesa tenera",NA
+"623","European","Ardisia crenata","Cfb; Csa"
+"624","European","Ardisia japonica","Cfb; Dfb"
+"625","European","Ardisia quinquegona",NA
+"626","European","Ardisia sieboldii","Csb"
+"627","European","Myrsine seguinii",NA
+"628","European","Helicia cochinchinensis",NA
+"629","European","Helicia nilagirica",NA
+"630","European","Clematis apiifolia","Cfb; Dfb"
+"631","European","Clematis cirrhosa","Cfb; Csa; Csb; Dfb"
+"632","European","Clematis vitalba","Cfb; Csa; Csb; Dfb"
+"633","European","Ochradenus baccatus","Csa"
+"634","European","Reseda luteola","Cfb; Csa; Csb; Dfb"
+"635","European","Berchemia floribunda","Cfb; Dfb"
+"636","European","Berchemiella berchemiifolia",NA
+"637","European","Frangula alnus","Cfb; Csa; Csb; Dfb"
+"638","European","Frangula crenata","Dfb"
+"639","European","Hovenia acerba",NA
+"640","European","Hovenia dulcis","Cfb; Csa; Csb; Dfb"
+"641","European","Paliurus ramosissimus",NA
+"642","European","Paliurus spina-christi","Cfb; Csa; Csb; Dfb"
+"643","European","Rhamnella franguloides","Cfb"
+"644","European","Rhamnus alaternus","Cfb; Csa; Csb; Dfb"
+"645","European","Rhamnus cathartica","Cfb; Csa; Csb; Dfb"
+"646","European","Rhamnus costata",NA
+"647","European","Rhamnus depressa","Dfb"
+"648","European","Rhamnus japonica","Cfb"
+"649","European","Rhamnus microcarpa",NA
+"650","European","Rhamnus staddo",NA
+"651","European","Ziziphus jujuba","Cfb; Csa; Csb; Dfb"
+"652","European","Ziziphus lotus","Cfb; Csa; Csb"
+"653","European","Ziziphus spina-christi","Csa; Csb"
+"654","European","Alchemilla alpina","Cfb; Csa; Csb; Dfb"
+"655","European","Alniaria alnifolia","Cfb; Dfb"
+"656","European","Amelanchier asiatica","Cfb"
+"657","European","Cerasus campanulata","Cfb"
+"658","European","Cerasus prostrata",NA
+"659","European","Chaenomeles chinensis","Cfb; Csa; Csb; Dfb"
+"660","European","Chaenomeles thibetica",NA
+"661","European","Cotoneaster nummularius","Cfb; Csa; Csb; Dfb"
+"662","European","Crataegus azarolus","Cfb; Csa; Csb; Dfb"
+"663","European","Crataegus douglasii","Cfb; Dfb"
+"664","European","Crataegus germanica","Cfb; Csa; Csb; Dfb"
+"665","European","Crataegus hupehensis","Cfb"
+"666","European","Crataegus laevigata","Cfb; Csa; Csb; Dfb"
+"667","European","Crataegus tanacetifolia","Cfb; Csa; Csb; Dfb"
+"668","European","Cydonia oblonga","Cfb; Csa; Csb; Dfb"
+"669","European","Dryas octopetala","Cfb; Csb; Dfb"
+"670","European","Eriolobus trilobatus","Cfb; Csa; Csb; Dfb"
+"671","European","Kerria japonica","Cfb; Csa; Csb; Dfb"
+"672","European","Macromeles tschonoskii","Cfb; Dfb"
+"673","European","Malus baccata","Cfb; Csa; Dfb"
+"674","European","Malus domestica","Cfb; Csa; Csb; Dfb"
+"675","European","Malus mandshurica","Cfb; Dfb"
+"676","European","Malus sylvestris","Cfb; Csa; Csb; Dfb"
+"677","European","Malus toringo","Cfb; Csa; Dfb"
+"678","European","Photinia glabra","Cfb; Csa; Csb; Dfb"
+"679","European","Photinia serratifolia","Cfb; Csa; Csb; Dfb"
+"680","European","Photinia villosa","Cfb; Dfb"
+"681","European","Potentilla fruticosa","Cfb; Csa; Csb; Dfb"
+"682","European","Prunus apetala",NA
+"683","European","Prunus armeniaca","Cfb; Csa; Csb; Dfb"
+"684","European","Prunus avium","Cfb; Csa; Csb; Dfb"
+"685","European","Prunus buergeriana",NA
+"686","European","Prunus cerasifera","Cfb; Csa; Csb; Dfb"
+"687","European","Prunus cocomilla",NA
+"688","European","Prunus communis",NA
+"689","European","Prunus cornuta","Cfb; Dfb"
+"690","European","Prunus fordiana",NA
+"691","European","Prunus glandulosa","Cfb; Dfb"
+"692","European","Prunus grayana","Cfb; Dfb"
+"693","European","Prunus incisa","Cfb; Dfb"
+"694","European","Prunus jamasakura","Cfb; Dfb"
+"695","European","Prunus laurocerasus","Cfb; Csa; Csb; Dfb"
+"696","European","Prunus maackii","Cfb; Dfb"
+"697","European","Prunus maximowiczii","Cfb; Dfb"
+"698","European","Prunus mume","Cfb; Dfb"
+"699","European","Prunus napaulensis",NA
+"700","European","Prunus nipponica","Cfb; Dfb"
+"701","European","Prunus padus","Cfb; Csa; Dfb"
+"702","European","Prunus pendula",NA
+"703","European","Prunus persica","Cfb; Csa; Csb; Dfb"
+"704","European","Prunus phaeosticta",NA
+"705","European","Prunus rufa",NA
+"706","European","Prunus sargentii","Cfb; Dfb"
+"707","European","Prunus serrulata","Cfb; Dfb"
+"708","European","Prunus undulata",NA
+"709","European","Prunus wilsonii",NA
+"710","European","Prunus zippeliana",NA
+"711","European","Pseudocydonia sinensis","Cfb; Csa; Csb; Dfb"
+"712","European","Pygeum topengii",NA
+"713","European","Pyracantha crenulata","Cfb; Csa; Csb; Dfb"
+"714","European","Pyrus communis","Cfb; Csa; Csb; Dfb"
+"715","European","Pyrus pashia","Cfb; Dfb"
+"716","European","Pyrus syriaca","Csa; Csb; Dfb"
+"717","European","Pyrus ussuriensis","Cfb; Dfb"
+"718","European","Rhaphiolepis bibas","Cfb; Csa; Csb; Dfb"
+"719","European","Rhodotypos scandens","Cfb; Csa; Dfb"
+"720","European","Rosa brunonii","Cfb; Dfb"
+"721","European","Rosa macrophylla","Cfb; Dfb"
+"722","European","Rosa multiflora","Cfb; Csa; Csb; Dfb"
+"723","European","Rosa rugosa","Cfb; Csa; Csb; Dfb"
+"724","European","Rosa sericea","Cfb; Dfb"
+"725","European","Rubus crataegifolius","Cfb; Dfb"
+"726","European","Sarcopoterium spinosum","Csa; Csb"
+"727","European","Sorbaria arborea","Cfb; Csa; Dfb"
+"728","European","Sorbaria kirilowii","Cfb; Csa; Dfb"
+"729","European","Sorbaria tomentosa","Cfb; Csa; Csb; Dfb"
+"730","European","Sorbus aucuparia","Cfb; Csa; Csb; Dfb"
+"731","European","Sorbus commixta","Cfb; Dfb"
+"732","European","Sorbus cuspidata","Cfb; Dfb"
+"733","European","Sorbus foliolosa",NA
+"734","European","Sorbus kurzii",NA
+"735","European","Sorbus microphylla",NA
+"736","European","Sorbus rhamnoides",NA
+"737","European","Sorbus ursina",NA
+"738","European","Spiraea alpina","Csb"
+"739","European","Spiraea dasyantha","Dfb"
+"740","European","Spiraea japonica","Cfb; Csa; Dfb"
+"741","European","Stephanandra incisa","Cfb; Dfb"
+"742","European","Aidia cochinchinensis",NA
+"743","European","Antirhea chinensis",NA
+"744","European","Lasianthus curtisii",NA
+"745","European","Luculia gratissima",NA
+"746","European","Sinoadina racemosa","Cfb"
+"747","European","Citrus medica","Cfb; Csa; Dfb"
+"748","European","Citrus trifoliata","Cfb; Csa; Csb; Dfb"
+"749","European","Citrus x_aurantium","Cfb; Csa; Csb; Dfb"
+"750","European","Cneorum pulverulentum",NA
+"751","European","Cneorum tricoccon","Cfb; Csa; Csb; Dfb"
+"752","European","Murraya paniculata","Cfb; Csa; Dfb"
+"753","European","Orixa japonica","Cfb; Dfb"
+"754","European","Phellodendron amurense","Cfb; Csa; Dfb"
+"755","European","Phellodendron chinense","Cfb; Dfb"
+"756","European","Ruta chalepensis","Cfb; Csa; Csb; Dfb"
+"757","European","Skimmia japonica","Cfb; Csa; Dfb"
+"758","European","Tetradium daniellii","Cfb; Dfb"
+"759","European","Tetradium glabrifolium",NA
+"760","European","Zanthoxylum acanthopodium","Dfb"
+"761","European","Zanthoxylum ailanthoides","Csb"
+"762","European","Zanthoxylum armatum","Cfb; Csa; Csb; Dfb"
+"763","European","Zanthoxylum avicennae",NA
+"764","European","Zanthoxylum fauriei",NA
+"765","European","Zanthoxylum piperitum","Dfb"
+"766","European","Zanthoxylum schinifolium","Dfb"
+"767","European","Meliosma alba",NA
+"768","European","Meliosma angustifolia",NA
+"769","European","Meliosma cuneifolia",NA
+"770","European","Meliosma fordii",NA
+"771","European","Meliosma kirkii",NA
+"772","European","Meliosma myriantha",NA
+"773","European","Meliosma oldhami",NA
+"774","European","Meliosma rhoifolia",NA
+"775","European","Meliosma rigida",NA
+"776","European","Meliosma squamulata",NA
+"777","European","Meliosma tenuis",NA
+"778","European","Meliosma thorelii",NA
+"779","European","Meliosma yunnanensis",NA
+"780","European","Carrierea calycina",NA
+"781","European","Idesia polycarpa","Cfb; Csa; Csb; Dfb"
+"782","European","Poliothyrsis sinensis","Cfb"
+"783","European","Populus alba","Cfb; Csa; Csb; Dfb"
+"784","European","Salix alba",NA
+"785","European","Xylosma congesta","Cfb"
+"786","European","Xylosma japonicum",NA
+"787","European","Salvadora persica","Dfb"
+"788","European","Buckleya lanceolata",NA
+"789","European","Viscum album","Cfb; Csa; Csb; Dfb"
+"790","European","Viscum cruciatum","Cfb; Csa; Csb"
+"791","European","Acer amoenum",NA
+"792","European","Acer argutum","Cfb; Dfb"
+"793","European","Acer campbellii","Cfb"
+"794","European","Acer campestre","Cfb; Csa; Csb; Dfb"
+"795","European","Acer capillipes","Cfb; Dfb"
+"796","European","Acer cappadocicum","Cfb; Csa; Csb; Dfb"
+"797","European","Acer carpinifolium","Cfb; Dfb"
+"798","European","Acer caudatum","Cfb; Dfb"
+"799","European","Acer cissifolium","Cfb; Dfb"
+"800","European","Acer crataegifolium","Cfb; Dfb"
+"801","European","Acer davidii","Cfb; Csa; Dfb"
+"802","European","Acer diabolicum","Cfb; Dfb"
+"803","European","Acer distylum","Cfb"
+"804","European","Acer ginnala","Cfb; Csa; Csb; Dfb"
+"805","European","Acer hermoneum","Csa; Csb"
+"806","European","Acer japonicum","Cfb; Csa; Dfb"
+"807","European","Acer maximowiczianum","Cfb; Dfb"
+"808","European","Acer micranthum","Dfb"
+"809","European","Acer mono","Cfb; Csa; Dfb"
+"810","European","Acer morifolium",NA
+"811","European","Acer nipponicum","Dfb"
+"812","European","Acer oblongum","Cfb; Csa; Dfb"
+"813","European","Acer palmatum","Cfb; Csa; Csb; Dfb"
+"814","European","Acer pectinatum","Cfb"
+"815","European","Acer platanoides","Cfb; Csa; Csb; Dfb"
+"816","European","Acer rufinerve","Cfb; Dfb"
+"817","European","Acer sieboldianum","Cfb; Csa; Dfb"
+"818","European","Acer sinensis",NA
+"819","European","Acer stachyophyllum","Cfb; Dfb"
+"820","European","Acer sterculiaceum","Dfb"
+"821","European","Acer syriacum","Cfb; Csa; Csb"
+"822","European","Acer tenuifolium","Cfb; Csa; Dfb"
+"823","European","Acer triflorum","Cfb; Dfb"
+"824","European","Acer ukurunduense","Dfb"
+"825","European","Aesculus chinensis","Cfb; Dfb"
+"826","European","Aesculus hippocastanum","Cfb; Csa; Csb; Dfb"
+"827","European","Aesculus turbinata","Cfb; Dfb"
+"828","European","Amesiodendron chinense",NA
+"829","European","Boniodendron minus",NA
+"830","European","Dipteronia dyeriana",NA
+"831","European","Dipteronia sinensis","Cfb; Dfb"
+"832","European","Dodonaea viscosa","Cfb; Csa; Csb; Dfb"
+"833","European","Eurycorymbus cavaleriei",NA
+"834","European","Handeliodendron bodinieri",NA
+"835","European","Koelreuteria bipinnata","Cfb; Csa; Csb; Dfb"
+"836","European","Koelreuteria paniculata","Cfb; Csa; Csb; Dfb"
+"837","European","Sapindus mukorossi","Cfb; Csa; Csb; Dfb"
+"838","European","Xanthoceras sorbifolium","Csb; Dfb"
+"839","European","Sarcosperma laurinum",NA
+"840","European","Schisandra nigra",NA
+"841","European","Schoepfia jasminodora",NA
+"842","European","Buddleja alternifolia","Cfb; Csa; Dfb"
+"843","European","Buddleja asiatica","Cfb; Csa"
+"844","European","Buddleja curviflora","Csa"
+"845","European","Buddleja davidii","Cfb; Csa; Csb; Dfb"
+"846","European","Buddleja nivea","Csa; Dfb"
+"847","European","Ailanthus altissima","Cfb; Csa; Csb; Dfb"
+"848","European","Picrasma quassioides","Dfb"
+"849","European","Sladenia celastrifolia",NA
+"850","European","Lycium afrum","Cfb; Csa; Csb"
+"851","European","Lycium shawii","Csa"
+"852","European","Nicotiana glauca","Cfb; Csa; Csb"
+"853","European","Solanum nigrum","Cfb; Csa; Csb; Dfb"
+"854","European","Withania adpressa",NA
+"855","European","Withania somnifera","Cfb; Csa; Csb; Dfb"
+"856","European","Stachyurus chinensis","Cfb; Dfb"
+"857","European","Stachyurus himalaicus",NA
+"858","European","Stachyurus praecox","Cfb; Dfb"
+"859","European","Staphylea bumalda","Cfb; Dfb"
+"860","European","Staphylea holocarpa","Cfb; Dfb"
+"861","European","Staphylea japonica",NA
+"862","European","Perkinsiodendron macgregorii",NA
+"863","European","Pterostyrax corymbosus","Cfb"
+"864","European","Sinojackia xylocarpa","Cfb"
+"865","European","Styrax japonicus","Cfb; Dfb"
+"866","European","Styrax obassis","Cfb; Dfb"
+"867","European","Styrax odoratissima",NA
+"868","European","Styrax officinalis","Cfb; Csa; Csb"
+"869","European","Symplocos anomala",NA
+"870","European","Symplocos cochinchinensis","Cfb"
+"871","European","Symplocos coreana",NA
+"872","European","Symplocos glauca",NA
+"873","European","Symplocos glomerata",NA
+"874","European","Symplocos lancifolia",NA
+"875","European","Symplocos liukiuensis",NA
+"876","European","Symplocos lucida",NA
+"877","European","Symplocos microcalyx",NA
+"878","European","Symplocos myrtacea",NA
+"879","European","Symplocos nakaharae",NA
+"880","European","Symplocos paniculata","Cfb; Dfb"
+"881","European","Symplocos pendula",NA
+"882","European","Symplocos pyrifolia",NA
+"883","European","Symplocos ramosissima",NA
+"884","European","Symplocos stellaris",NA
+"885","European","Symplocos sumuntia",NA
+"886","European","Symplocos theifolia","Csa"
+"887","European","Myricaria bracteata","Dfb"
+"888","European","Tamarix amplexicaulis",NA
+"889","European","Tamarix aphylla","Csa; Csb"
+"890","European","Tamarix chinensis","Cfb; Csa; Csb"
+"891","European","Tamarix gennessarensis",NA
+"892","European","Tamarix getula","Cfb; Csa; Csb"
+"893","European","Tamarix nilotica","Csa"
+"894","European","Tamarix palaestina","Csa"
+"895","European","Tamarix parviflora","Cfb; Csa; Csb; Dfb"
+"896","European","Tamarix passerinoides",NA
+"897","European","Tamarix tetragyna","Cfb; Csa"
+"898","European","Tapiscia sinensis",NA
+"899","European","Apterosperma oblatum",NA
+"900","European","Camellia grijsii",NA
+"901","European","Camellia japonica","Cfb; Csa; Csb; Dfb"
+"902","European","Camellia kissi",NA
+"903","European","Euryodendron excelsum",NA
+"904","European","Gordonia hainanensis",NA
+"905","European","Polyspora axillaris",NA
+"906","European","Pyrenaria multisepala",NA
+"907","European","Schima crenata",NA
+"908","European","Schima superba","Cfb"
+"909","European","Stewartia monadelpha","Dfb"
+"910","European","Stewartia pseudocamellia","Cfb; Dfb"
+"911","European","Stewartia rubiginosa",NA
+"912","European","Stewartia sinensis",NA
+"913","European","Daphne mezereum","Cfb; Csa; Csb; Dfb"
+"914","European","Edgeworthia chrysantha","Cfb; Csa; Dfb"
+"915","European","Thymelaea hirsuta","Cfb; Csa; Csb"
+"916","European","Wikstroemia sikokiana",NA
+"917","European","Torricellia angulata",NA
+"918","European","Tetracentron sinense",NA
+"919","European","Trochodendron aralioides","Cfb; Csb; Dfb"
+"920","European","Hemiptelea davidii","Cfb; Dfb"
+"921","European","Ulmus canescens","Cfb; Csa; Csb"
+"922","European","Ulmus carpinifolia","Cfb; Csa; Dfb"
+"923","European","Ulmus castaneifolia",NA
+"924","European","Ulmus changii",NA
+"925","European","Ulmus davidiana","Cfb; Dfb"
+"926","European","Ulmus laciniata","Cfb; Dfb"
+"927","European","Ulmus lanceifolia",NA
+"928","European","Ulmus macrocarpa",NA
+"929","European","Ulmus parvifolia","Cfb; Csa; Csb; Dfb"
+"930","European","Ulmus procera","Cfb; Csa; Csb; Dfb"
+"931","European","Ulmus pumila","Cfb; Csa; Csb; Dfb"
+"932","European","Ulmus uyematsii",NA
+"933","European","Zelkova carpinifolia","Cfb; Csa; Dfb"
+"934","European","Zelkova schneideriana","Cfb"
+"935","European","Zelkova serrata","Cfb; Csa; Csb; Dfb"
+"936","European","Zelkova sinica","Cfb"
+"937","European","Boehmeria nivea","Cfb; Csa; Dfb"
+"938","European","Oreocnide pedunculata",NA
+"939","European","Sambucus nigra","Cfb; Csa; Csb; Dfb"
+"940","European","Viburnum dilatatum","Cfb"
+"941","European","Viburnum japonicum","Cfb"
+"942","European","Viburnum lantana","Cfb; Csa; Csb; Dfb"
+"943","European","Viburnum odoratissimum","Cfb; Csa; Csb"
+"944","European","Viburnum opulus","Cfb; Csb; Dfb"
+"945","European","Viburnum tinus","Cfb; Csa; Csb; Dfb"
+"946","European","Cayratia corniculata",NA
+"947","European","Parthenocissus quinquefolia","Cfb; Csa; Csb; Dfb"
+"948","European","Rhoicissus tridentata",NA
+"949","European","Vitis amurensis","Cfb; Csa; Dfb"
+"950","European","Vitis coignetiae","Cfb; Csa; Dfb"
+"951","European","Vitis flexuosa","Dfb"
+"952","European","Vitis saccharifera",NA
+"953","European","Vitis vinifera","Cfb; Csa; Csb; Dfb"
+"954","European","Balanites aegyptiaca","Csa"
+"955","European","Fagonia mollis","Csa"
+"956","European","Zygophyllum dumosum","Csa"
+"957","North American","Liquidambar styraciflua","Csa; Csb"
+"958","North American","Cotinus obovatus",NA
+"959","North American","Malosma laurina","Csa; Csb"
+"960","North American","Rhus aromatica","Csa; Csb"
+"961","North American","Rhus copallinum",NA
+"962","North American","Rhus glabra","Csa; Csb"
+"963","North American","Rhus integrifolia","Csa; Csb"
+"964","North American","Rhus microphylla",NA
+"965","North American","Rhus ovata","Csa; Csb"
+"966","North American","Rhus trilobata","Csa; Csb"
+"967","North American","Rhus typhina","Csa; Csb"
+"968","North American","Rhus virens",NA
+"969","North American","Toxicodendron diversilobum","Csa; Csb"
+"970","North American","Toxicodendron radicans",NA
+"971","North American","Toxicodendron vernix",NA
+"972","North American","Annona glabra",NA
+"973","North American","Asimina triloba","Csa; Csb"
+"974","North American","Nerium oleander","Csa; Csb"
+"975","North American","Orthosia scoparia",NA
+"976","North American","Ilex cassine","Csa"
+"977","North American","Ilex decidua","Csb"
+"978","North American","Ilex mucronata","Csb"
+"979","North American","Ilex opaca","Csa; Csb"
+"980","North American","Ilex verticillata",NA
+"981","North American","Ilex vomitoria","Csb"
+"982","North American","Aralia californica","Csa; Csb"
+"983","North American","Aralia spinosa","Csa"
+"984","North American","Hedera helix","Csa; Csb"
+"985","North American","Oplopanax horridus",NA
+"986","North American","Ageratina wrightii",NA
+"987","North American","Artemisia californica","Csa; Csb"
+"988","North American","Artemisia tridentata","Csa; Csb"
+"989","North American","Baccharis glomeruliflora",NA
+"990","North American","Baccharis halimifolia",NA
+"991","North American","Baccharis pilularis","Csa; Csb"
+"992","North American","Flourensia cernua",NA
+"993","North American","Mikania scandens",NA
+"994","North American","Parthenium argentatum","Csa; Csb"
+"995","North American","Parthenium incanum",NA
+"996","North American","Sidneya tenuifolia",NA
+"997","North American","Berberis aquifolium","Csa; Csb"
+"998","North American","Berberis nervosa","Csa; Csb"
+"999","North American","Berberis thunbergii","Csa; Csb"
+"1000","North American","Alnus incana","Csa; Csb"
+"1001","North American","Alnus rubra","Csa; Csb"
+"1002","North American","Betula alleghaniensis","Csb"
+"1003","North American","Betula nigra","Csb"
+"1004","North American","Betula occidentalis","Csa; Csb"
+"1005","North American","Carpinus caroliniana","Csb"
+"1006","North American","Corylus americana",NA
+"1007","North American","Corylus cornuta","Csa; Csb"
+"1008","North American","Ostrya knowltonii",NA
+"1009","North American","Ostrya virginiana",NA
+"1010","North American","Bignonia capreolata","Csb"
+"1011","North American","Campsis radicans","Csa; Csb"
+"1012","North American","Catalpa bignonioides","Csa; Csb"
+"1013","North American","Catalpa speciosa","Csa; Csb"
+"1014","North American","Chilopsis linearis","Csa; Csb"
+"1015","North American","Bourreria ovata",NA
+"1016","North American","Cordia boissieri","Csa"
+"1017","North American","Cordia sebestena",NA
+"1018","North American","Ehretia anacua","Csa"
+"1019","North American","Tiquilia greggii",NA
+"1020","North American","Calycanthus floridus","Csb"
+"1021","North American","Calycanthus occidentalis","Csa; Csb"
+"1022","North American","Celtis laevigata","Csa"
+"1023","North American","Celtis occidentalis","Csa; Csb"
+"1024","North American","Celtis pallida",NA
+"1025","North American","Atamisquea emarginata",NA
+"1026","North American","Capparis flexuosa",NA
+"1027","North American","Symphoricarpos albus","Csa; Csb"
+"1028","North American","Casuarina cunninghamiana","Csa; Csb"
+"1029","North American","Canotia holacantha",NA
+"1030","North American","Maytenus phyllanthoides",NA
+"1031","North American","Schaefferia frutescens",NA
+"1032","North American","Krascheninnikovia lanata","Csa; Csb"
+"1033","North American","Cleomella arborea","Csa; Csb"
+"1034","North American","Conocarpus erectus",NA
+"1035","North American","Cornus florida","Csa"
+"1036","North American","Cornus nuttallii","Csa; Csb"
+"1037","North American","Cornus sericea","Csa; Csb"
+"1038","North American","Crossosoma bigelovii","Csa; Csb"
+"1039","North American","Cliftonia monophylla",NA
+"1040","North American","Cyrilla racemiflora",NA
+"1041","North American","Diospyros virginiana","Csa; Csb"
+"1042","North American","Shepherdia argentea","Csa; Csb"
+"1043","North American","Empetrum nigrum","Csb"
+"1044","North American","Andromeda polifolia",NA
+"1045","North American","Arbutus menziesii","Csa; Csb"
+"1046","North American","Arbutus xalapensis","Csb"
+"1047","North American","Arctostaphylos uva-ursi","Csa; Csb"
+"1048","North American","Arctostaphylos viscida","Csa; Csb"
+"1049","North American","Chamaedaphne calyculata",NA
+"1050","North American","Comarostaphylis diversifolia","Csa; Csb"
+"1051","North American","Gaultheria shallon","Csa; Csb"
+"1052","North American","Gaylussacia baccata",NA
+"1053","North American","Kalmia latifolia","Csb"
+"1054","North American","Leucothoe axillaris",NA
+"1055","North American","Leucothoe fontanesiana",NA
+"1056","North American","Lyonia ferruginea",NA
+"1057","North American","Oxydendrum arboreum",NA
+"1058","North American","Rhododendron catawbiense","Csa; Csb"
+"1059","North American","Vaccinium arboreum",NA
+"1060","North American","Vaccinium ovalifolium","Csb"
+"1061","North American","Vaccinium uliginosum","Csa; Csb"
+"1062","North American","Zenobia pulverulenta",NA
+"1063","North American","Gymnanthes lucida",NA
+"1064","North American","Stillingia aquatica",NA
+"1065","North American","Chrysolepis chrysophylla","Csa; Csb"
+"1066","North American","Fagus grandifolia",NA
+"1067","North American","Notholithocarpus densiflorus","Csa; Csb"
+"1068","North American","Fouquieria splendens","Csa; Csb"
+"1069","North American","Garrya buxifolia","Csa; Csb"
+"1070","North American","Garrya elliptica","Csa; Csb"
+"1071","North American","Garrya flavescens","Csa; Csb"
+"1072","North American","Garrya ovata",NA
+"1073","North American","Ribes cynosbati",NA
+"1074","North American","Ribes sanguineum","Csa; Csb"
+"1075","North American","Fothergilla major",NA
+"1076","North American","Hamamelis vernalis","Csa"
+"1077","North American","Hamamelis virginiana",NA
+"1078","North American","Philadelphus lewisii","Csa; Csb"
+"1079","North American","Philadelphus mexicanus","Csb"
+"1080","North American","Eriodictyon tomentosum","Csa; Csb"
+"1081","North American","Eriodictyon trichocalyx","Csa; Csb"
+"1082","North American","Hypericum laricifolium",NA
+"1083","North American","Illicium floridanum","Csb"
+"1084","North American","Illicium parviflorum",NA
+"1085","North American","Carya glabra","Csa; Csb"
+"1086","North American","Carya illinoinensis","Csa; Csb"
+"1087","North American","Carya laciniosa","Csa"
+"1088","North American","Carya ovata",NA
+"1089","North American","Carya pallida",NA
+"1090","North American","Juglans californica","Csa; Csb"
+"1091","North American","Juglans cinerea","Csa; Csb"
+"1092","North American","Koeberlinia spinosa","Csa"
+"1093","North American","Krameria cytisoides",NA
+"1094","North American","Salvia apiana","Csa; Csb"
+"1095","North American","Lindera benzoin",NA
+"1096","North American","Persea americana","Csa; Csb"
+"1097","North American","Persea borbonia",NA
+"1098","North American","Sassafras albidum","Csa"
+"1099","North American","Umbellularia californica","Csa; Csb"
+"1100","North American","Gleditsia aquatica",NA
+"1101","North American","Gleditsia triacanthos","Csa; Csb"
+"1102","North American","Gymnocladus dioicus","Csa; Csb"
+"1103","North American","Parkinsonia aculeata","Csa; Csb"
+"1104","North American","Cercis canadensis","Csa; Csb"
+"1105","North American","Acaciella angustissima",NA
+"1106","North American","Lysiloma latisiliquum",NA
+"1107","North American","Mimosa zygophylla",NA
+"1108","North American","Neltuma glandulosa","Csa; Csb"
+"1109","North American","Prosopis glandulosa","Csa; Csb"
+"1110","North American","Prosopis pubescens","Csa; Csb"
+"1111","North American","Senegalia berlandieri",NA
+"1112","North American","Senegalia greggii","Csa; Csb"
+"1113","North American","Acacia wrightii",NA
+"1114","North American","Cladrastis kentukea",NA
+"1115","North American","Dermatophyllum arizonicum",NA
+"1116","North American","Dermatophyllum secundiflorum","Csb"
+"1117","North American","Erythrina herbacea",NA
+"1118","North American","Olneya tesota","Csa"
+"1119","North American","Robinia neomexicana","Csa; Csb"
+"1120","North American","Robinia pseudoacacia","Csa; Csb"
+"1121","North American","Robinia viscosa","Csb"
+"1122","North American","Styphnolobium affine",NA
+"1123","North American","Gelsemium sempervirens","Csa; Csb"
+"1124","North American","Decodon verticillatus",NA
+"1125","North American","Liriodendron tulipifera","Csa; Csb"
+"1126","North American","Magnolia acuminata","Csa"
+"1127","North American","Magnolia fraseri","Csa"
+"1128","North American","Magnolia grandiflora","Csa; Csb"
+"1129","North American","Magnolia virginiana",NA
+"1130","North American","Byrsonima lucida",NA
+"1131","North American","Fremontodendron californicum","Csa; Csb"
+"1132","North American","Waltheria Indica",NA
+"1133","North American","Malacothamnus fasciculatus","Csa; Csb"
+"1134","North American","Firmiana simplex","Csa; Csb"
+"1135","North American","Tilia americana","Csa; Csb"
+"1136","North American","Maclura pomifera","Csa; Csb"
+"1137","North American","Morus alba","Csa; Csb"
+"1138","North American","Morus rubra","Csa"
+"1139","North American","Morella californica","Csa; Csb"
+"1140","North American","Morella cerifera","Csb"
+"1141","North American","Myrica gale",NA
+"1142","North American","Eugenia axillaris",NA
+"1143","North American","Myrcianthes fragrans",NA
+"1144","North American","Guapira discolor",NA
+"1145","North American","Pisonia aculeata",NA
+"1146","North American","Cartrema americana",NA
+"1147","North American","Fraxinus americana","Csa; Csb"
+"1148","North American","Fraxinus caroliniana","Csa"
+"1149","North American","Fraxinus nigra","Csa"
+"1150","North American","Dendromecon rigida","Csa; Csb"
+"1151","North American","Heterosavia bahamensis",NA
+"1152","North American","Picramnia pentandra",NA
+"1153","North American","Jacquinia keyensis",NA
+"1154","North American","Ardisia escallonioides",NA
+"1155","North American","Drypetes diversifolia",NA
+"1156","North American","Berchemia scandens",NA
+"1157","North American","Ceanothus arboreus","Csa; Csb"
+"1158","North American","Ceanothus cordulatus","Csa; Csb"
+"1159","North American","Ceanothus greggii","Csa; Csb"
+"1160","North American","Ceanothus incanus","Csa; Csb"
+"1161","North American","Ceanothus velutinus","Csa; Csb"
+"1162","North American","Colubrina elliptica",NA
+"1163","North American","Condalia ericoides",NA
+"1164","North American","Condalia hookeri",NA
+"1165","North American","Frangula californica","Csa; Csb"
+"1166","North American","Frangula caroliniana","Csa"
+"1167","North American","Frangula purshiana","Csa; Csb"
+"1168","North American","Reynosia septentrionalis",NA
+"1169","North American","Sarcomphalus obtusifolius","Csa"
+"1170","North American","Rhizophora mangle",NA
+"1171","North American","Adenostoma fasciculatum","Csa; Csb"
+"1172","North American","Amelanchier arborea",NA
+"1173","North American","Amelanchier canadensis",NA
+"1174","North American","Cercocarpus ledifolius","Csa; Csb"
+"1175","North American","Chamaebatia australis","Csa; Csb"
+"1176","North American","Chamaebatiaria millefolium","Csa; Csb"
+"1177","North American","Coleogyne ramosissima","Csa; Csb"
+"1178","North American","Crataegus douglasii","Csa; Csb"
+"1179","North American","Fallugia paradoxa","Csa; Csb"
+"1180","North American","Holodiscus discolor","Csa; Csb"
+"1181","North American","Lyonothamnus floribundus","Csa; Csb"
+"1182","North American","Oemleria cerasiformis","Csa; Csb"
+"1183","North American","Peraphyllum ramosissimum","Csa"
+"1184","North American","Petrophytum caespitosum","Csa"
+"1185","North American","Photinia glabra","Csa; Csb"
+"1186","North American","Physocarpus capitatus","Csa; Csb"
+"1187","North American","Potentilla fruticosa","Csa; Csb"
+"1188","North American","Prunus emarginata","Csa; Csb"
+"1189","North American","Prunus serotina","Csa; Csb"
+"1190","North American","Purshia stansburiana","Csa; Csb"
+"1191","North American","Sorbus americana",NA
+"1192","North American","Spiraea douglasii","Csa; Csb"
+"1193","North American","Vauquelinia californica","Csb"
+"1194","North American","Cephalanthus occidentalis","Csa; Csb"
+"1195","North American","Exostema caribaeum",NA
+"1196","North American","Guettarda elliptica",NA
+"1197","North American","Pinckneya pubens",NA
+"1198","North American","Randia aculeata",NA
+"1199","North American","Amyris balsamifera",NA
+"1200","North American","Amyris elemifera",NA
+"1201","North American","Choisya dumosa","Csa"
+"1202","North American","Citrus maxima","Csa; Csb"
+"1203","North American","Cneoridium dumosum","Csa"
+"1204","North American","Esenbeckia berlandieri",NA
+"1205","North American","Ptelea trifoliata","Csa; Csb"
+"1206","North American","Zanthoxylum americanum",NA
+"1207","North American","Zanthoxylum clava-herculis",NA
+"1208","North American","Zanthoxylum fagara",NA
+"1209","North American","Zanthoxylum flavum",NA
+"1210","North American","Populus balsamifera","Csa; Csb"
+"1211","North American","Ryania angustifolia",NA
+"1212","North American","Salix glauca","Csa; Csb"
+"1213","North American","Buckleya distichophylla",NA
+"1214","North American","Acer circinatum","Csa; Csb"
+"1215","North American","Acer glabrum","Csa; Csb"
+"1216","North American","Acer macrophyllum","Csa; Csb"
+"1217","North American","Acer nigrum","Csa"
+"1218","North American","Acer pensylvanicum",NA
+"1219","North American","Acer rubrum","Csa; Csb"
+"1220","North American","Acer saccharinum","Csa; Csb"
+"1221","North American","Acer saccharum","Csa; Csb"
+"1222","North American","Aesculus californica","Csa; Csb"
+"1223","North American","Aesculus flava",NA
+"1224","North American","Aesculus glabra","Csa"
+"1225","North American","Aesculus x_neglecta","Csb"
+"1226","North American","Cardiospermum corindum","Csa"
+"1227","North American","Koelreuteria bipinnata","Csa; Csb"
+"1228","North American","Sapindus drummondii",NA
+"1229","North American","Sapindus marginatus","Csb"
+"1230","North American","Sapindus saponaria","Csb"
+"1231","North American","Ungnadia speciosa","Csa"
+"1232","North American","Manilkara zapota",NA
+"1233","North American","Sideroxylon celastrinum",NA
+"1234","North American","Sideroxylon lanuginosum",NA
+"1235","North American","Sideroxylon tenax",NA
+"1236","North American","Sarcobatus vermiculatus","Csa; Csb"
+"1237","North American","Buddleja sessiliflora",NA
+"1238","North American","Buddleja utahensis",NA
+"1239","North American","Ailanthus altissima","Csa; Csb"
+"1240","North American","Leitneria floridana",NA
+"1241","North American","Simarouba glauca",NA
+"1242","North American","Simmondsia californica","Csa; Csb"
+"1243","North American","Lycium carolinianum","Csa"
+"1244","North American","Staphylea bolanderi","Csa; Csb"
+"1245","North American","Styrax americanus",NA
+"1246","North American","Styrax grandifolius",NA
+"1247","North American","Styrax platanifolius",NA
+"1248","North American","Suriana maritima",NA
+"1249","North American","Symplocos tinctoria",NA
+"1250","North American","Franklinia alatamaha",NA
+"1251","North American","Gordonia lasianthus","Csa"
+"1252","North American","Dirca palustris",NA
+"1253","North American","Planera aquatica",NA
+"1254","North American","Ulmus alata","Csa; Csb"
+"1255","North American","Ulmus americana","Csa; Csb"
+"1256","North American","Ulmus crassifolia",NA
+"1257","North American","Ulmus rubra","Csa"
+"1258","North American","Ulmus serotina","Csa; Csb"
+"1259","North American","Ulmus thomasii","Csa; Csb"
+"1260","North American","Citharexylum spinosum",NA
+"1261","North American","Sambucus canadensis","Csa; Csb"
+"1262","North American","Sambucus glauca",NA
+"1263","North American","Sambucus nigra","Csa; Csb"
+"1264","North American","Sambucus racemosa","Csa; Csb"
+"1265","North American","Viburnum prunifolium",NA
+"1266","North American","Phoradendron californicum","Csa; Csb"
+"1267","North American","Phoradendron leucarpum","Csa; Csb"
+"1268","North American","Phoradendron macrophyllum",NA
+"1269","North American","Phoradendron pauciflorum","Csa; Csb"
+"1270","North American","Phoradendron villosum","Csa; Csb"
+"1271","North American","Parthenocissus quinquefolia","Csa; Csb"
+"1272","North American","Larrea cuneifolia",NA
